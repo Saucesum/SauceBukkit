@@ -1,0 +1,7 @@
+SauceBukkit - SauceBot Bukkit Java Plugin
+
+Dependencies:
+  craftbukkit - http://bukkit.org/
+  google-gson - http://code.google.com/p/google-gson/
+
+Built for MineCraft 1.1
